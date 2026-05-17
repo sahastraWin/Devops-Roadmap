@@ -279,6 +279,4 @@ Build a production-grade platform from scratch — the kind companies actually r
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sahastraWin&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
