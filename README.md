@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=800&height=80&lines=🚀+THE+COMPLETE+DEVOPS;Learning+Roadmap+2024;From+Zero+%E2%86%92+Job-Ready" alt="Typing SVG" />
+# 🚀 THE COMPLETE DEVOPS LEARNING ROADMAP
+### *From Zero → Job-Ready DevOps Engineer*
 
 <br/>
 
